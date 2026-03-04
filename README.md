@@ -10,7 +10,7 @@
 ![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-0.14%2B-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.0%2B-green)
 ![CatBoost](https://img.shields.io/badge/CatBoost-1.2%2B-purple)
-![SHAP](https://img.shields.io/badge/SHAP-0.48%2B-blue
+![SHAP](https://img.shields.io/badge/SHAP-0.48%2B-blue)
 
 ## 🎯 Цель проекта
 Разработать модель машинного обучения для прогнозирования вероятности совершения покупки пользователем в течение 90 дней на основе исторических данных о покупках и взаимодействии с рекламными рассылками.
